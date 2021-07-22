@@ -14,7 +14,7 @@
 
         $subject = "Message sent using your contact form from FOODY";
 
-        mail("contactwebedit@gmail.com", $subject, $email_body, $from);
+        mail("tolulopetimilehin124@gmail.com", $subject, $email_body, $from);
 
         header("Location: contact-page.html");
 
